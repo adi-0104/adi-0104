@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adi-0104, you can call me Adi!
+- 👋 Hi, I’m Adi!
 - 👀 I’m interested in software development and started my journey by learning Python!
 - 🌱 I’m currently learning web development @ Crio.do
 - 📫 How to reach me - adithyasuresh.ak@gmail.com is my email ID
