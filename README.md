@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adi!
-- 👀 I’m interested in software development and started my journey by learning Python!
-- 🌱 I’m currently learning web development @ Crio.do
-- 📫 How to reach me - adithyasuresh.ak@gmail.com is my email ID
+- 💼 A self taught Fullstack developer with an inclination towards Frontend Technologies ** not limited to UI :) **
+- 🌱 My current knowledge pit lies in learning to build scalable & performant frontend systems.
+- 📫 How to reach me - adithyasuresh.ak@gmail.com is my email ID, or my linked in 
 
 <!---
 adi-0104/adi-0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
