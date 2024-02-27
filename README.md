@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adi!
-- 💼 A self taught Fullstack developer with an inclination towards Frontend Technologies ** not limited to UI :) **
+- 💼 A self taught Fullstack developer with an inclination towards Frontend Technologies ( not limited to UI ._.)
 - 🌱 My current knowledge pit lies in learning to build scalable & performant frontend systems.
 - 📫 How to reach me - adithyasuresh.ak@gmail.com is my email ID
 
