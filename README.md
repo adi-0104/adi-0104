@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adi!
-- 💼 A self taught Fullstack developer with an inclination towards Frontend Technologies ( not limited to UI .-.)
-- 🌱 My current knowledge pit lies in learning to build scalable & performant frontend systems.
+- 💼 A self taught Fullstack developer with an inclination towards Frontend Technologies. Currentlty shipping features as a Frontend Engineer at Density Exchange.
+- 🌱 I am currently seeking knowledge of best practices to build scalable frontend applications and the importance of UX in building a product
 - 📫 How to reach me - adithyasuresh.ak@gmail.com is my email ID
 
 <!---
